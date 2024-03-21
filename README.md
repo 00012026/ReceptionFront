@@ -1,3 +1,7 @@
+This application was developed for Web 
+Application module, as coursework portfolio project @ WIUT by student ID:00012026
+
+
 # Reception
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
